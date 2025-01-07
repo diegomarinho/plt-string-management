@@ -1,7 +1,7 @@
 # plt-string-management
 
 - Author: Diego Marinho Almeida
-- Since: Dez/2024
+- Since: 2025/Jan
 - Version: 1.0
 
 ## Stack
